@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jangow-lhdrum.github.io/jangow-webdev/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jangow-lhdrum.github.io/jangow-webdev/</loc>
+</url>
+<url>
+<loc>https://jangow-lhdrum.github.io/jangow-webdev/01-see-what-you-can-do-with-dreamweaver.html</loc>
+<lastmod>2020-05-25T13:10:49+08:00</lastmod>
+<image:image>
+<image:loc>https://jangow-lhdrum.github.io/jangow-webdev/media\posts\1/See-What-you-can-do-with-Dreamweaver.png</image:loc>
+<image:title><![CDATA[看看您可以用Dreamweaver做什麼]]></image:title>
+</image:image>
+</url>
+</urlset>

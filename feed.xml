@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Jangow WebDev</title>
+    <link href="https://jangow-lhdrum.github.io/jangow-webdev/feed.xml" rel="self" />
+    <link href="https://jangow-lhdrum.github.io/jangow-webdev" />
+    <updated>2020-05-25T13:12:27+08:00</updated>
+    <author>
+        <name>jangow</name>
+    </author>
+    <id>https://jangow-lhdrum.github.io/jangow-webdev</id>
+
+    <entry>
+        <title>01. See what you can do with Dreamweaver</title>
+        <author>
+            <name>jangow</name>
+        </author>
+        <link href="https://jangow-lhdrum.github.io/jangow-webdev/01-see-what-you-can-do-with-dreamweaver.html"/>
+        <id>https://jangow-lhdrum.github.io/jangow-webdev/01-see-what-you-can-do-with-dreamweaver.html</id>
+
+        <updated>2020-05-25T13:10:49+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jangow-lhdrum.github.io/jangow-webdev/media/posts/1/See-What-you-can-do-with-Dreamweaver.png" alt="看看您可以用Dreamweaver做什麼" />
+                    看看您可以用Dreamweaver做什麼: 官網 Learn how Dreamweaver is the all-in-one visual development tool for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jangow-lhdrum.github.io/jangow-webdev/media/posts/1/See-What-you-can-do-with-Dreamweaver.png" alt="看看您可以用Dreamweaver做什麼" />
+                <p><strong><span style="color: #3598db;">看看您可以用Dreamweaver做什麼</span></strong>: <a href="https://helpx.adobe.com/tw/dreamweaver/how-to/what-is-dreamweaver.html?playlist=/services/playlist.helpx/products:SG_DREAMWEAVER_1_1/learn-path:get-started/set-header:ccx-designer/playlist:orientation/zh_TW.json&amp;ref=helpx.adobe.com"></a><a href="https://helpx.adobe.com/dreamweaver/how-to/what-is-dreamweaver.html" title="https://helpx.adobe.com/dreamweaver/how-to/what-is-dreamweaver.html" target="_blank" rel="noopener noreferrer">官網</a><a href="https://helpx.adobe.com/tw/dreamweaver/how-to/what-is-dreamweaver.html?playlist=/services/playlist.helpx/products:SG_DREAMWEAVER_1_1/learn-path:get-started/set-header:ccx-designer/playlist:orientation/zh_TW.json&amp;ref=helpx.adobe.com"></a></p>
+<p><strong>Learn how Dreamweaver is the all-in-one visual development tool for creating, publishing, and managing websites and mobile content.</strong></p>
+<p>(<span style="color: #3598db;"><strong>了解Dreamweaver如何成為用於創建，發布和管理網站和移動內容的多合一視覺開發工具。</strong></span>)</p>
+<p>您需要的項目</p>
+<p><a href="https://www.adobe.com/tw/products/dreamweaver/free-trial-download.html">Get app(獲取應用)</a></p>
+<p> <a href="https://www.adobe.com/tw/products/dreamweaver/free-trial-download.html">Free Dreamweaver download(免費的Dreamweaver下載)</a></p>
+<p><iframe width="640" height="480" src="https://drive.google.com/file/d/1gP8U8-1a1frPFMtdAtbw67E5DAOhqQwL/preview"></iframe></p>
+<p><strong>2020年1月13日</strong></p>
+<p><strong>Contributors(貢獻者)</strong>: <a href="https://paultrani.com/">Paul Trani</a>, <a href="https://www.behance.net/ascend">Ari Weinkle</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
